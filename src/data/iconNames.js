@@ -1,0 +1,21 @@
+export const ICONNAMES = {
+    addPost: 'addPost',
+    back: "back",
+    comment: "comment",
+    homeActive: "homeActive",
+    homeInactive: "homeInactive",
+    instagramText: "instagramText",
+    instagramLogo: "instagramLogo",
+    instagramLogoColor: "instagramLogoColor",
+    like: "like",
+    liked: "liked",
+    messenger: "messenger",
+    reelActive: "reelActive",
+    reelInactive: "reelInactive",
+    saved: "saved",
+    searchActive: "searchActive",
+    searchInactive: "searchInactive",
+    share: "share",
+    unsaved: "unsaved",
+    
+};

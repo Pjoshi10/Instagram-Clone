@@ -1,0 +1,21 @@
+export const ICONS = {
+    addPost: require('/Users/macos20/Desktop/instagram_Clone/src/assets/images/icons/add_post.png'),
+    back: require('/Users/macos20/Desktop/instagram_Clone/src/assets/images/icons/back.png'),
+    comment: require('/Users/macos20/Desktop/instagram_Clone/src/assets/images/icons/comment.png'),
+    homeActive: require('/Users/macos20/Desktop/instagram_Clone/src/assets/images/icons/home_active.png'),
+    homeInactive: require('/Users/macos20/Desktop/instagram_Clone/src/assets/images/icons/home_inactive.png'),
+    instagramText: require('/Users/macos20/Desktop/instagram_Clone/src/assets/images/icons/instagram_white.png'),
+    instagramLogo: require('/Users/macos20/Desktop/instagram_Clone/src/assets/images/icons/insta_logo_white.jpeg'),
+    instagramLogoColor: require('/Users/macos20/Desktop/instagram_Clone/src/assets/images/icons/insta_logo_color.png'),
+    like: require('/Users/macos20/Desktop/instagram_Clone/src/assets/images/icons/like.png'),
+    liked: require('/Users/macos20/Desktop/instagram_Clone/src/assets/images/icons/liked.png'),
+    messenger: require('/Users/macos20/Desktop/instagram_Clone/src/assets/images/icons/messenger.png'),
+    reelActive: require('/Users/macos20/Desktop/instagram_Clone/src/assets/images/icons/reel_active.png'),
+    reelInactive: require('/Users/macos20/Desktop/instagram_Clone/src/assets/images/icons/reel_inactive.png'),
+    saved: require('/Users/macos20/Desktop/instagram_Clone/src/assets/images/icons/saved.png'),
+    searchActive: require('/Users/macos20/Desktop/instagram_Clone/src/assets/images/icons/search_active.png'),
+    searchInctive: require('/Users/macos20/Desktop/instagram_Clone/src/assets/images/icons/search_inactive.png'),
+    share: require('/Users/macos20/Desktop/instagram_Clone/src/assets/images/icons/share.png'),
+    unsaved: require('/Users/macos20/Desktop/instagram_Clone/src/assets/images/icons/unsaved.png'),
+    
+};
